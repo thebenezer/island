@@ -9,7 +9,7 @@ int state = 0;
 //state =0 -->intro page
 //state =1 -->menu
 //state =2,3,4 -->start,instructions,about
-
+ 
 void printString(float fx, float fy, float fz, const char *s,float color,int style);
 void expand();
 void island_name_entry();
