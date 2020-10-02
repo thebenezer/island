@@ -2,7 +2,7 @@
 //                 HEADER FILE TO CREATE TEXTURES USING GLUT.H
 //Make sure to include glut.h before tex.h...
 //Use CreateTextures(int count,char **imagefilenames) to create new textures
-//
+
 //To call use the textures use- glBindTexture(GL_TEXTURE_2D, texture[tex_number]);
 //-----------------------------------------------------------------------
 #include <glut.h>
